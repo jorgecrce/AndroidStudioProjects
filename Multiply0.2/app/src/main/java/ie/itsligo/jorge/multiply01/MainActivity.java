@@ -1,5 +1,6 @@
 package ie.itsligo.jorge.multiply01;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -49,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v){
                 Intent A2Intent = new Intent (v.getContext(), Main2Activity.class);
-
+                startActivity(A2Intent);
             }
         });
 

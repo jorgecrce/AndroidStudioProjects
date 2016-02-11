@@ -44,12 +44,12 @@
         "source": "D:\\AndroidStudioProjects\\Multiply0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\Multiply0.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "D:\\AndroidStudioProjects\\Multiply0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Multiply0.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
@@ -116,12 +116,12 @@
         "source": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "C:\\Users\\jorge\\AndroidStudioProjects\\Multiply0.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
