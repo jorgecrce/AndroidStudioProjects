@@ -114,6 +114,13 @@ public class ImputNumber extends AppCompatActivity {
                 e2.setText(e2.getText().toString()+"#");
             }
         });
+        buttonSharp.setOnLongClickListener(new View.OnLongClickListener() {
+            @Override
+            public boolean onLongClick(View v) {
+                e2.setText(e2.getText().toString() + "+");
+                return true;
+            }
+        });
         buttonClear.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
